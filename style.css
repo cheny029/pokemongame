@@ -1,16 +1,16 @@
 /* Your styles go here */
 html {
-  cursor: url('pikachu.png'), auto;
+  cursor: url('images/pikachu.png'), auto;
 }
 
 body{
   font-size: 30px;
   text-align: center;
-  background-image: url("background.gif");
+  background-image: url("images/background.gif");
 }
 
 .entrance{
-  background-image: url("pokemonlandscape.jpg");
+  background-image: url("images/pokemonlandscape.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
